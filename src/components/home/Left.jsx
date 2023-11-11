@@ -5,11 +5,8 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import { SiYoutubemusic } from "react-icons/si";
 import { FiInstagram, FiMail, FiSend } from "react-icons/fi";
-// import { bannerImg } from "../../assets/index"
-// import { bannerImg } from '../../assets/index'
-// import { myyyy  } from '../../assets/index'
 import { myyyy } from '../../assets/index'
-import CV from "../../assets/RINKI MANDAL (2).pdf"
+import resume from '../../assets/RINKI MANDAL (5).pdf'
 
 const Left = () => {
 
@@ -73,7 +70,7 @@ const Left = () => {
         {/* buttons */}
         <div className="flex h-14">
           <a
-            href={CV}
+            href={resume}
             target="_blank"
             className="w-1/2 border-t-[1px] borderRight border-t-zinc-800 text-sm tracking-wide uppercase  gap-2 hover:text-designColor duration-300"
             rel="noreferrer"

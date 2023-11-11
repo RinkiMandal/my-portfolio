@@ -5,7 +5,6 @@ import myblog from './myblog.jpg';
 import todo from './tofo.jpg';
 import myexperience from './my experience.jpg'
 import internpe from './internpe.jpeg'
-// import myprofile from './myprofile.jpg'
 import myyyy from './myyyyy.jpg'
 
 
@@ -19,8 +18,5 @@ export {
     todo,
     myexperience,
     internpe,
-    // me,
-    // profile
-    // myprofile
     myyyy 
 };
