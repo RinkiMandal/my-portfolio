@@ -7,7 +7,8 @@ import { SiYoutubemusic } from "react-icons/si";
 import { FiInstagram, FiMail, FiSend } from "react-icons/fi";
 // import { bannerImg } from "../../assets/index"
 // import { bannerImg } from '../../assets/index'
-import { me } from '../../assets/index'
+// import { myyyy  } from '../../assets/index'
+import { myyyy } from '../../assets/index'
 import CV from "../../assets/RINKI MANDAL (2).pdf"
 
 const Left = () => {
@@ -24,8 +25,8 @@ const Left = () => {
     <div className='w-5/12 h-full bg-bodyColor shad z-10'>
         <div className='w-full h-3/5'>
         <img 
-            className='w-full h-full object-cover rounded-2xl'
-            src={me}
+            className='h-96 w-80 ml-11 object-cover rounded-2xl'
+            src={myyyy }
             alt='me'
             loading='priority'/>
         </div>

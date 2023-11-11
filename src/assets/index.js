@@ -3,9 +3,10 @@ import google from './google.jpg';
 import movix from './movix.jpg';
 import myblog from './myblog.jpg';
 import todo from './tofo.jpg';
-import d2h from './d2h.jpeg';
+import myexperience from './my experience.jpg'
 import internpe from './internpe.jpeg'
-import me from './me.jpeg'
+// import myprofile from './myprofile.jpg'
+import myyyy from './myyyyy.jpg'
 
 
 
@@ -16,8 +17,10 @@ export {
     movix,
     myblog,
     todo,
-    d2h,
+    myexperience,
     internpe,
-    me
-    
+    // me,
+    // profile
+    // myprofile
+    myyyy 
 };

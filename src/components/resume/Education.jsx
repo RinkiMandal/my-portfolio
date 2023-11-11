@@ -4,7 +4,7 @@ import { MdWork } from "react-icons/md";
 import { GiGraduateCap } from "react-icons/gi";
 import ResumeCard from "./ResumeCard";
 import {
-  d2h,
+  myexperience,
   internpe
 } from '../../assets'
 
@@ -34,7 +34,7 @@ src={internpe} />
 
 
 <div className="left">
-  <img src={d2h} />
+  <img src={myexperience} />
   <h1 className=" ml-6 mt-4 text-2xl text-orange-600 opacity-50">D2D Founding Team</h1>
 </div>
 <div className="right ">
